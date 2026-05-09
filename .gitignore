@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift / Xcode
+.build/
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+Package.resolved
+
+# App bundle artifacts
+*.app/
+
+# IDE
+.idea/
+.vscode/
+
+# Misc
+*.log
